@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="poi-3.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../大数据/项目需要外部jar/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../大数据/项目需要外部jar/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../大数据/项目需要外部jar/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

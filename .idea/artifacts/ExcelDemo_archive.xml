@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="ExcelDemo archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExcelDemo_archive</output-path>
+    <root id="archive" name="ExcelDemo archive.ear">
+      <element id="artifact" artifact-name="ExcelDemo" />
+    </root>
+  </artifact>
+</component>
